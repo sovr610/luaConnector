@@ -1,0 +1,16 @@
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\lua53.dll
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\liblua53.dylib
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\liblua53.so
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\x86\lua53.dll
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\x64\lua53.dll
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\x64\liblua53.so
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\LuaConnector.dll
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\LuaConnector.pdb
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\KeraLua.dll
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\NLua.dll
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\bin\Debug\KeraLua.xml
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\obj\Debug\LuaConnector.csprojAssemblyReference.cache
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\obj\Debug\LuaConnector.csproj.CoreCompileInputs.cache
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\obj\Debug\LuaConnector.csproj.CopyComplete
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\obj\Debug\LuaConnector.dll
+C:\Users\Sovr6\source\repos\MyScriptingLanguage\LuaConnector\obj\Debug\LuaConnector.pdb
